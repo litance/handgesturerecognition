@@ -1,6 +1,8 @@
 # handgesturerecognition
 Finger number recognition system based on Tkinter data collection and MobileNetV2 基于 Tkinter 数据采集与 MobileNetV2 的手指数量识别系统
 
+![image](https://github.com/user-attachments/assets/0eb95831-8e88-4d78-9c23-8e974167024d)
+
 ### 所需要第三方库 Third-party libraries needed to run this program
 - numpy
 - opencv
