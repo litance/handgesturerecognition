@@ -25,7 +25,8 @@ while True:
     cv2.putText(frame, f'Fingers: {finger_count}', (50, 50),
                 cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
     cv2.imshow("Finger Count", frame)
-
+    
+    #按q结束
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
 
