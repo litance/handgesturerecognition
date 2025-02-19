@@ -20,7 +20,7 @@ pip install tensorflow
 
 ## 2.下载模型 Download model
 ```
-https://github.com/litance/handgesturerecognition.git
+git clone https://github.com/litance/handgesturerecognition.git
 ```
 
 ## 2.配置好代码 Configure the code(main.py)
